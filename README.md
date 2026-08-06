@@ -252,19 +252,6 @@ The firmware is built using the **ESP-IDF v5.x** framework. To integrate it with
 idf.py build flash monitor
 
 ```
-### ESP32 PCB
-
-Additionally a pcb was desgined to use the telemetry ssitem as an add-on to the converter
-
-![esp pcb](/pics/esp32_pcb.png)
-
----
-## 👥 Collaborators
-- **[Agustín Torres](https://github.com/aguscsc)**  
-- **[Ignacio Cerda](https://github.com/LovesCharlie)**  
-- **[Gian Luca Barbagelata](https://github.com/Yian-n)**  
-
----
 
 ## 📚 References
 -   Mohan – Power Electronics, Cap. 7
